@@ -1,4 +1,4 @@
-package com.programmers.Lv1;
+package com.programmers.Lv0;
 
 public class countingOfK {
     static class Solution {
