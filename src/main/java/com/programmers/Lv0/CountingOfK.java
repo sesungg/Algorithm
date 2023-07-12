@@ -1,6 +1,6 @@
 package com.programmers.Lv0;
 
-public class countingOfK {
+public class CountingOfK {
     static class Solution {
         public int solution(int startNum, int endNum, int checkNum){
             int answer = 0;
