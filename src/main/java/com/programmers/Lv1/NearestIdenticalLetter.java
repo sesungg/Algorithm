@@ -1,6 +1,6 @@
 package com.programmers.Lv1;
 
-public class nearestIdenticalLetter {
+public class NearestIdenticalLetter {
     static class Solution{
         public int[] solution(String s) {
             int[] answer = new int[s.length()];
