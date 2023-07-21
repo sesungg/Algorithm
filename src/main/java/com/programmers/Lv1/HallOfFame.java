@@ -8,6 +8,7 @@ public class HallOfFame {
 
         PriorityQueue<Integer> pq = new PriorityQueue();
 
+
         for(int i = 0; i < score.length; i++) {
             pq.offer(score[i]);
 
