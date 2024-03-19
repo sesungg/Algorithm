@@ -1,4 +1,4 @@
-package com.searchAlgorithm;
+package com.searchAlgorithm.AhoCorasick;
 
 import java.util.*;
 
