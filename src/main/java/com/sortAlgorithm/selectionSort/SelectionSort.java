@@ -27,7 +27,7 @@ public class SelectionSort {
 
         timeUtil.start();
         selectionSort(array);
-        System.out.println(timeUtil.getElapsedTimeInSeconds());
+        timeUtil.getElapsedTimeInSeconds();
 
         for (int value : array) {
             System.out.print(value + " ");
