@@ -9,7 +9,7 @@ public class TimeUtil {
         startTime = System.nanoTime();
     }
 
-    public void getElapsedTimeInSeconds() {
+    public void printElapsedTimeInSeconds() {
         long endTime = System.nanoTime();
         // 나노초를 초 단위로 변환.
         double elapsedTimeInSeconds = (endTime - startTime) / 1_000_000_000.0;

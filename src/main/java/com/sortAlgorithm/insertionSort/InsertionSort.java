@@ -23,7 +23,7 @@ public class InsertionSort {
         TimeUtil timeUtil = new TimeUtil();
         timeUtil.start();
         insertionSort(array);
-        timeUtil.getElapsedTimeInSeconds();
+        timeUtil.printElapsedTimeInSeconds();
         for (int value : array) {
             System.out.print(value + " ");
         }

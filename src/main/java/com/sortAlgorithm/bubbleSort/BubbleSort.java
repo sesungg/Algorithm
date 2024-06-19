@@ -28,7 +28,7 @@ public class BubbleSort {
         TimeUtil timeUtil = new TimeUtil();
         timeUtil.start();
         bubbleSort(array);
-        timeUtil.getElapsedTimeInSeconds();
+        timeUtil.printElapsedTimeInSeconds();
         for (int value : array) {
             System.out.print(value + " ");
         }
