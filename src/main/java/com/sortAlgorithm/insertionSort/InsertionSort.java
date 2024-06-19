@@ -1,4 +1,4 @@
-package com.sortAlgorithm.insertSort;
+package com.sortAlgorithm.insertionSort;
 
 import com.utils.TimeUtil;
 
